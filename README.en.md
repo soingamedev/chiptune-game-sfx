@@ -12,6 +12,12 @@ A library of **404 chiptune sound effects** in OGG format, ready for use in 8-bi
 
 ---
 
+## Player
+
+![Player](assets/img/player.png)
+
+---
+
 
 ## 🎯 Sound Categories
 

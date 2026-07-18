@@ -11,6 +11,15 @@ Uma biblioteca de **404 efeitos sonoros chiptune** no formato OGG, prontos para 
 > **Criado por:** [Soin Game Dev](https://www.soingamedev.com.br)
 
 ---
+
+## Player
+
+![Player](assets/img/player.png)
+
+---
+
+
+---
 ## Categorias de Som
 
 | # | Categoria | Qtd |
