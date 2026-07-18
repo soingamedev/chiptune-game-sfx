@@ -1,0 +1,16 @@
+[package]
+name = "soin-chiptune-player"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A tiny retro TUI player for the Soin Game Dev chiptune SFX pack."
+
+[dependencies]
+anyhow = "1"
+crossterm = "0.29"
+ratatui = "0.29"
+rodio = "0.21"
+walkdir = "2"
+
+[dev-dependencies]
+tempfile = "3"
