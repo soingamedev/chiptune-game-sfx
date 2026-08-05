@@ -6,7 +6,7 @@
 
 # Soin Game Dev — Biblioteca de Efeitos Sonoros Chiptune
 
-Uma biblioteca de **404 efeitos sonoros chiptune** no formato OGG, prontos para uso em jogos 8-bit.
+Uma biblioteca de **404 efeitos sonoros chiptune** no formato OGG, prontos para uso em jogos 8-16-32-bit.
 
 > **Criado por:** [Soin Game Dev](https://www.soingamedev.com.br)
 

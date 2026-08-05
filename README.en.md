@@ -6,7 +6,7 @@
 
 # Soin Game Dev — Chiptune Sound Effects Library
 
-A library of **404 chiptune sound effects** in OGG format, ready for use in 8-bit.
+A library of **404 chiptune sound effects** in OGG format, ready for use in 8-16-32-bit.
 
 > **Created by:** [Soin Game Dev](https://www.soingamedev.com.br)
 
@@ -19,7 +19,7 @@ A library of **404 chiptune sound effects** in OGG format, ready for use in 8-bi
 ---
 
 
-## 🎯 Sound Categories
+## Sound Categories
 
 | # | Category | Qty |
 |---|----------|:---:|
