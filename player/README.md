@@ -1,4 +1,4 @@
-# Soin 8-Bit SFX Player
+# Soin GAME-Bit SFX/MUSIC Player
 
 Tiny retro terminal player for browsing and playing audio in this repository.
 

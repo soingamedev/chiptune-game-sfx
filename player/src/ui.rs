@@ -22,7 +22,7 @@ pub fn render(frame: &mut Frame, app: &App) {
     let shell = Block::default()
         .title(Line::from(vec![
             Span::styled(" SOIN GAME DEV ", Style::new().black().bg(GREEN).bold()),
-            Span::styled(" 8-BIT SFX PLAYER ", Style::new().fg(PINK).bold()),
+            Span::styled(" GAME-BIT SFX/MUSIC PLAYER ", Style::new().fg(PINK).bold()),
         ]))
         .borders(Borders::ALL)
         .border_type(BorderType::Double)
