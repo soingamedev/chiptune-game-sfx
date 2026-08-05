@@ -60,7 +60,7 @@ combat_sword_swing_heavy_01.ogg
 magic_fireball_cast_01.ogg
 ```
 
-## 📄 Licença
+## Licença
 
 [MIT](LICENSE). 
 Criado por [Soin Game Dev](https://www.soingamedev.com.br).

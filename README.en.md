@@ -45,7 +45,7 @@ A library of **404 chiptune sound effects** in OGG format, ready for use in 8-bi
 | 19 | Cozy, Crafting & Farming | 18 |
 | | **Total** | **404** |
 
-## 🚀 Usage
+## Usage
 
 Copy the OGG files from `assets/audio/sfx/ogg/` into your game's audio directory.
 
@@ -59,6 +59,6 @@ combat_sword_swing_heavy_01.ogg
 magic_fireball_cast_01.ogg
 ```
 
-## 📄 License
+## License
 
 [MIT](LICENSE). Created by [Soin Game Dev](https://www.soingamedev.com.br).
