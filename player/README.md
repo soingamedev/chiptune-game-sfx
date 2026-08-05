@@ -27,7 +27,7 @@ generated music/SFX (its `.xm` + `.wav`):
 
 ```bash
 cargo run -- --audio-root ../assets/audio/sfx
-cargo run -- --audio-root "D:/MeusJogos/0.CONSOLE/GBA/gba-tiny-relic-quest/audio"
+cargo run -- --audio-root "<path>"
 ```
 
 Pointed at the GBA project's `audio/` folder you'll see two categories: `music`
